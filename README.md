@@ -1,7 +1,5 @@
 ### **Análise de Objetos Próximos à Terra (NEOs) da NASA**
 
-Este repositório contém uma análise exploratória de um conjunto de dados da NASA sobre Objetos Próximos à Terra (NEOs), com o objetivo de prever a perigosidade de asteroides. O conjunto de dados original foi obtido de:
-
 - [https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
 
 contém mais de 338.199 registros abrangendo observações de 1910 a 2024.
